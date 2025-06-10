@@ -10,7 +10,7 @@
 
 ## 💫 About Me:
 
-🔭 I’m currently working on Badminton Shadow Generator<br>🌱 I’m Excel in PERN stack and learning Blockchain Technology<br>⚡ Fun fact: I am a Gaming and Sci-fi Enthusiast
+🔭 I’m currently working on Badminton Shadow Generator<br>🌱 I Excel in PERN stack and learning Blockchain Technology<br>⚡ Fun fact: I am a Gaming and Sci-fi Enthusiast
 
 ## 🌐 Connect With Me:
 
