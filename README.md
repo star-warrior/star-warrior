@@ -24,7 +24,7 @@
 ## 💻 Technologies I know:
 
 <h2 align="left">
-    <img src="https://skillicons.dev/icons?i=js,python,nodejs,react,discord,docker,express,postgres,gcp,github,html,css,bootstrap,linux,md,materialui,mysql,postman,vscode,figma&amp;perline=10">
+    <img src="https://skillicons.dev/icons?i=js,python,nodejs,react,redux,discord,docker,express,postgres,gcp,github,html,css,bootstrap,linux,md,materialui,mysql,postman,vscode,figma&amp;perline=10">
 </h2>
 
 ## 📊 GitHub Stats:
