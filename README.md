@@ -37,24 +37,21 @@ Lets Connect and Build Awesome Stuff together :)
     <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux&amp;perline=10" height="40">
 </h4>
 
- 🪛 Tools
+### 🪛 Tools
 
 <h4 align="left">
     <img src="https://skillicons.dev/icons?i=postman,vscode,figma,discord&amp;perline=10" height="40">
 </h4>
 
+<br>
 
-
-<details style="margin-top: 2rem;" open>
-<summary><span style="font-size: 1.5em; ">📊 GitHub Stats</span></summary>
+## 📊 GitHub Stats
 
 <br>
 
 ![Github Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)  
 ![Github Contribution Data](https://nirzak-streak-stats.vercel.app/?user=star-warrior&theme=tokyonight&hide_border=false)
-
-</details>
 
 
 
