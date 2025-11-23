@@ -38,7 +38,7 @@ Lets Connect and Build Awesome Stuff together :)
 
 <br>
 
-## 🌉 GSSoC' 25
+## 🌉 GSSoC' 25 ( Top 6% )
 
 <div align="left" style="display:flex; gap:12px; justify-content:flex-start; align-items:center; flex-wrap:wrap;">
   <img src="./gssoc_badges/badge1.jpg" alt="GSSoC Badge 1" style="width:90px; height:auto; border-radius:8px;" />
