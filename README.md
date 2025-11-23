@@ -41,8 +41,8 @@ Lets Connect and Build Awesome Stuff together :)
 ## 🌉 GSSoC' 25 ( Top 6% )
 
 <div align="left" style="display:flex; gap:12px; justify-content:flex-start; align-items:center; flex-wrap:wrap;">
-  <img src="./gssoc_badges/badge1.jpg" alt="GSSoC Badge 1" style="width:90px; height:auto; border-radius:8px;" />
-  <img src="./gssoc_badges/badge2.jpg" alt="GSSoC Badge 2" style="width:90px; height:auto; border-radius:8px;" />
+  <img src="./gssoc_badges/badge1-removebg-preview.png" alt="GSSoC Badge 1" style="width:90px; height:auto; border-radius:8px;" />
+  <img src="./gssoc_badges/badge2-removebg-preview.png" alt="GSSoC Badge 2" style="width:90px; height:auto; border-radius:8px;" />
 </div>
 
 ## 📊 GitHub Stats
