@@ -1,8 +1,5 @@
-
 <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=30&pause=1000&color=7DCFFF&background=1A1B2600&center=true&vCenter=true&width=435&height=100&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Jay+Mehta" alt="Typing SVG" /></a>
 </div>
-
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=star-warrior.star-warrior&"  />
@@ -19,31 +16,34 @@ Lets Connect and Build Awesome Stuff together :)
 <a href="mailto:jaymehta.developement@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="discord" height="45" width="45"></a>
 </p>
 
-
-
-
 ## 💻 Technologies I know:
-
 
 ### 📱 Web Dev
 
 <h4 align="left">
-    <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,postgres,mongodb,tailwind&amp;perline=10" height="40" alt="Web Dev">
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=javascript,python,reactjs,nodejs,expressjs,postgresql,mongodb,tailwindcss&amp;perline=10" height="45" alt="Web Dev">
 </h4>
 
 ### ☁️ Cloud
 
 <h4 align="left">
-    <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux&amp;perline=10" height="40">
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=googlecloud,github,githubactions,docker,git,linux&amp;perline=10" height="45">
 </h4>
 
 ### 🪛 Tools
 
 <h4 align="left">
-    <img src="https://skillicons.dev/icons?i=postman,vscode,figma,discord&amp;perline=10" height="40">
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=postman,n8n,visualstudiocode,figma,discordbots,discord&amp;perline=10" height="45">
 </h4>
 
 <br>
+
+## 🌉 GSSoC' 25
+
+<div align="left" style="display:flex; gap:12px; justify-content:flex-start; align-items:center; flex-wrap:wrap;">
+  <img src="./gssoc_badges/badge1.jpg" alt="GSSoC Badge 1" style="width:90px; height:auto; border-radius:8px;" />
+  <img src="./gssoc_badges/badge2.jpg" alt="GSSoC Badge 2" style="width:90px; height:auto; border-radius:8px;" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -52,12 +52,6 @@ Lets Connect and Build Awesome Stuff together :)
 ![Github Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)  
 ![Github Contribution Data](https://nirzak-streak-stats.vercel.app/?user=star-warrior&theme=tokyonight&hide_border=false)
-
-
-
-
-
-
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-warrior/star-warrior/output/pacman-contribution-graph-dark.svg">
