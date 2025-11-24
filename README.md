@@ -58,5 +58,3 @@ Lets Connect and Build Awesome Stuff together :)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-warrior/star-warrior/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/star-warrior/star-warrior/output/pacman-contribution-graph.svg">
 </picture> -->
-
-![Metrics](https://github.com/star-warrior/star-warrior/blob/main/github-metrics.svg)
