@@ -27,7 +27,7 @@ Lets Connect and Build Awesome Stuff together :)
 ### ☁️ Cloud
 
 <h4 align="left">
-    <img src="https://skills.syvixor.com/api/icons?perline=8&i=googlecloud,github,githubactions,docker,git,linux&amp;perline=10" height="45">
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=googlecloud,github,githubactions,docker,git,linux,firebase&amp;perline=10" height="45">
 </h4>
 
 ### 🪛 Tools
@@ -63,5 +63,3 @@ Lets Connect and Build Awesome Stuff together :)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-warrior/star-warrior/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/star-warrior/star-warrior/output/pacman-contribution-graph.svg">
 </picture> -->
-
-![Metrics](https://github.com/star-warrior/star-warrior/blob/main/github-metrics.svg)
