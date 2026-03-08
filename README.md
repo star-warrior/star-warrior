@@ -48,10 +48,10 @@ Lets Connect and Build Awesome Stuff together :)
 ## 📊 GitHub Stats
 
 <br>
-
+<!-- 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
 <!-- ![Github Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)   -->
