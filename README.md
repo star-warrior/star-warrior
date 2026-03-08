@@ -53,9 +53,8 @@ Lets Connect and Build Awesome Stuff together :)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
-<!-- ![Github Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)   -->
-
+![Github Used languages](https://github-readme-stats-fawn-mu-15.vercel.app/api/top-langs/?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Github Stats](https://github-readme-stats-fawn-mu-15.vercel.app/api?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 ![Github Contribution Data](https://nirzak-streak-stats.vercel.app/?user=star-warrior&theme=tokyonight&hide_border=false)
 
 <!-- <picture>
