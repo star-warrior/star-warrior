@@ -55,7 +55,6 @@ Lets Connect and Build Awesome Stuff together :)
 
 ![Github Used languages](https://github-readme-stats-fawn-mu-15.vercel.app/api/top-langs/?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![Github Stats](https://github-readme-stats-fawn-mu-15.vercel.app/api?username=star-warrior&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
-![Github Contribution Data](https://nirzak-streak-stats.vercel.app/?user=star-warrior&theme=tokyonight&hide_border=false)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-warrior/star-warrior/output/pacman-contribution-graph-dark.svg">
