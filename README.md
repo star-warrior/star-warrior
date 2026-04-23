@@ -10,10 +10,16 @@
 Lets Connect and Build Awesome Stuff together :)
 
 <!--icons and links-->
-<p align="left" style="display:flex; gap:10px;">
-<a href="https://www.linkedin.com/in/jay-mehta16/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="45" width="45"></a>
-<a href="https://discord.gg/3Mt8JhZF3s" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="45" width="45"></a>
-<a href="mailto:jaymehta.developement@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="discord" height="45" width="45"></a>
+<p>
+  <a href="https://www.linkedin.com/in/jay-mehta16/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="https://discord.gg/3Mt8JhZF3s" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
+  </a>
+  <a href="mailto:jaymehta.developement@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
 </p>
 
 ## 💻 Technologies I know:
