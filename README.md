@@ -24,16 +24,16 @@ Lets Connect and Build Awesome Stuff together :)
 
 ## 💻 Technologies I know:
 
-### 📱 Web Dev
+### 📱 Software Engineering
 
 <h4 align="left">
-    <img src="https://skills.syvixor.com/api/icons?perline=8&i=javascript,python,reactjs,nodejs,expressjs,postgresql,mongodb,tailwindcss&amp;perline=10" height="45" alt="Web Dev">
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=java,javascript,typescript,cpp,python,reactjs,nextjs,nodejs,expressjs,spring,sptingboot,springai,postgresql,mongodb,tailwindcss&amp;perline=10" height="45" alt="Web Dev">
 </h4>
 
 ### ☁️ Cloud
 
 <h4 align="left">
-    <img src="https://skills.syvixor.com/api/icons?perline=8&i=googlecloud,github,githubactions,docker,git,linux,firebase&amp;perline=10" height="45">
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=googlecloud,amazonwebservices,github,githubactions,docker,git,linux,firebase,kubernetes&amp;perline=10" height="45">
 </h4>
 
 ### 🪛 Tools
